@@ -16,7 +16,7 @@ import (
 	"github.com/lestrrat-go/jwx/v2/jws"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/go-chi/jwtauth/v5"
+	"github.com/OpenCHAMI/jwtauth/v5"
 	"github.com/lestrrat-go/jwx/v2/jwa"
 	"github.com/lestrrat-go/jwx/v2/jwt"
 )
